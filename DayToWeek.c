@@ -5,9 +5,9 @@ int main(){
     printf("Enter the no of days:");
     scanf("%d",&day);
     w=day/7;
-    Printf("week=%d",w);
-    remaining_days=d%7;
-    printf("Remaining days=%d",remaining_days);
+   // Printf("Week=%d",w);
+    remaining_days=day%7;
+    printf("%d days is equal to %d week and %d days",day,w,remaining_days);
     return 0;
 
 }
