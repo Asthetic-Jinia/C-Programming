@@ -5,8 +5,9 @@ int main(){
     scanf("%d",&x);
     printf("Enter the value of y:");
     scanf("%d",&y);
-    x=y;
-    y=x;
+    x=x+y;
+    y=x-y;
+    x=x-y;
     printf("x=%d\n",x);
     printf("y=%d",y);
     return 0;
