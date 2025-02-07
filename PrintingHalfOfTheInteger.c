@@ -1,4 +1,5 @@
 #include<stdio.h>
+// Is it right?
 int main(){
     float x;
     printf("Enter the value of x");
