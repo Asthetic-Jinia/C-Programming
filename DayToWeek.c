@@ -7,7 +7,7 @@ int main(){
     w=day/7;
    // Printf("Week=%d",w);
     remaining_days=day%7;
-    printf("%d days is equal to %d week and %d days",day,w,remaining_days);
+    printf("%d days are equal to %d week and %d days",day,w,remaining_days);
     return 0;
 
 }
