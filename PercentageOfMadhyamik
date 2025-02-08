@@ -1,7 +1,0 @@
-#include<stdio.h>
-int main(){
-    int B,E,M,Bio,PS,H,G;
-    printf("Bengali=%d\n",B);
-    scanf("")
-    printf("English=%d\n",E)
-}
