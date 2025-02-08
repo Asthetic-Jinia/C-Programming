@@ -5,7 +5,7 @@ int main(){
     scanf("%f",&x);
     int y;
     y=x;
-    printf("The fractional part is%2f",(x-y));
+    printf("The fractional part is%f",(x-y));
     return 0;
 
 }
